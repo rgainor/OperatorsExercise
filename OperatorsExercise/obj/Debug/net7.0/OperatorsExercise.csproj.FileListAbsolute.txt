@@ -1,0 +1,15 @@
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/bin/Debug/net7.0/OperatorsExercise
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/bin/Debug/net7.0/OperatorsExercise.deps.json
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/bin/Debug/net7.0/OperatorsExercise.runtimeconfig.json
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/bin/Debug/net7.0/OperatorsExercise.dll
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/bin/Debug/net7.0/OperatorsExercise.pdb
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.csproj.AssemblyReference.cache
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.AssemblyInfoInputs.cache
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.AssemblyInfo.cs
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.csproj.CoreCompileInputs.cache
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.dll
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/refint/OperatorsExercise.dll
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.pdb
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/OperatorsExercise.genruntimeconfig.cache
+/Users/ryan.gainor/Desktop/repos/OperatorsExercise/OperatorsExercise/obj/Debug/net7.0/ref/OperatorsExercise.dll

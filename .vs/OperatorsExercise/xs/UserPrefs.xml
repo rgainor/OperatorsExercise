@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6A6C796D-21A7-4E26-9488-38148D1D895F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorsExercise/Program.cs">
+    <Files>
+      <File FileName="OperatorsExercise/Program.cs" Line="6" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorsExercise" expanded="True">
+            <Node name="OperatorsExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OperatorsExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
